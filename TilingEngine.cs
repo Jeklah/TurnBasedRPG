@@ -104,5 +104,6 @@ public class TilingEngine : MonoBehaviour {
                 return tileSprite;
             }
         }
+        return null;
     }
 }
